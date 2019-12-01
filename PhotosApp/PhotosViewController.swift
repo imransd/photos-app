@@ -65,8 +65,6 @@ extension PhotosViewController: UITableViewDataSource {
                 }
             }
             }
-//        customCell.photoImageView.image = currentSong.photo
-//        customCell.titleLabel.text = currentSong.title
         
         return photoCell
     }
